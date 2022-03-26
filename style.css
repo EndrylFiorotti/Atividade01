@@ -1,0 +1,31 @@
+.container{
+    width: 250px;
+    height: 250px;
+
+    background-color: #000;
+}
+.container2{
+    width: 75%;
+    height: 75%;
+
+    background-color: #600AEC;
+}
+.paragrafo{
+    background-color: #9458F4;
+    color: #FFF;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.container3{
+    width: 75%;
+    height: 35vh;
+
+    background-color: rgb(119, 71, 196);
+}
+.container4{
+    width: 50vw;
+    height: 50%;
+
+    background-color: rgb(68, 7, 165);
+}
